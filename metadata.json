@@ -1,0 +1,7 @@
+{
+  "name": "SmartServe AI - Agentic Customer Support Assistant",
+  "description": "An agentic AI-powered customer support assistant featuring dynamic tool calling, reasoning execution, simulated orders, returns, support ticketing, sentiment analysis, and human escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
